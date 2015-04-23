@@ -384,7 +384,7 @@ catch(err) {
 if (runningTests) {
   require("rastopyr-github/tests/test-helper");
 } else {
-  require("rastopyr-github/app")["default"].create({"name":"rastopyr-github","version":"0.0.0.df543b2e"});
+  require("rastopyr-github/app")["default"].create({"name":"rastopyr-github","version":"0.0.0.a20b3986"});
 }
 
 /* jshint ignore:end */
