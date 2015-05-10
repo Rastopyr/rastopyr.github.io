@@ -29,3 +29,23 @@ node_modules
 bower_components
 
 tmp
+
+# app source files
+app
+config
+dist
+public
+server
+tests
+!tests/index.html
+vendor
+.bowerrc
+.editorconfig
+.ember-cli
+.jshintrc
+.travis.yml
+bower.json
+Brocfile.js
+package.json
+README.md
+testem.json
