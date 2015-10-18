@@ -1,7 +1,10 @@
 <div id="container">
   <div id="content">
-    {{outlet}}  
+    {{main-header}}
+    {{outlet}}
   </div>
 
-  {{render 'layout/footer'}}
+  {{posts/post-list}}
+
+  {{main-footer}}
 </div>
