@@ -1,4 +1,4 @@
-/*   
+/*
 Theme Name: mnmlist
 Theme URI: http://mnmlist.com/theme/
 Description: A very clean minimalist theme, without comments, search, archives or other features.
@@ -11,12 +11,12 @@ This theme is uncopyrighted, free, and offered as is.
 
 
 body {
-  background: #fff; 
+  background: #fff;
   font: 20px Hoefler Text, bodyfont, serif;
   color: #333;
         line-height: 30px;
   }
-  
+
 h1 {font-family: Helvetica, sans-serif; font-size: 1em; color:#333; font-weight:normal;  padding: 20px 0px 0px 0px;}
 h2 {font-family: Helvetica, sans-serif; font-size: 1.5em; color:#333; line-height:26px; font-weight:normal; padding: 5px 0px 10px 0px;}
 h3 {font-family: Helvetica, sans-serif; font-size: 18px; color:#666; line-height: 15px; text-indent: 0px; padding: 10px 0px 0px 0px;}
@@ -42,7 +42,7 @@ li{line-height: 30px; padding: 6px 0 0 0;}
 
 
 #content {min-width: 20em; max-width: 30em; overflow: hidden;
-  margin-top:60px; margin-left:64px; margin-right:14px; margin-bottom:0px;} 
+  margin-top:60px; margin-left:64px; margin-right:14px; margin-bottom:0px;}
 .entry a:link {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
 .entry a:visited {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
 .entry a:hover {color: #999; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0; text-decoration: none;}
@@ -55,7 +55,7 @@ li{line-height: 30px; padding: 6px 0 0 0;}
 #footer a:hover{color: #999;text-decoration: none;}
 
 
-#arc {float: right; width:530px; overflow: hidden; margin-top:0px; margin-left:14px; margin-right:14px; margin-bottom:24px;}  
+#arc {float: right; width:530px; overflow: hidden; margin-top:0px; margin-left:14px; margin-right:14px; margin-bottom:24px;}
 .arc p{color:#666; font-family: 'Verdana', sans-serif; font-size: 12px; font-weight: normal !important;}
 
 .year th{color:#666; font-family: Verdana, sans-serif; font-size: 22px; font-weight: bold;}
@@ -63,3 +63,5 @@ li{line-height: 30px; padding: 6px 0 0 0;}
 .arctitle th {color:#999; font-family: 'Verdana', sans-serif; font-size: 14px; font-weight: normal;}
 .arc2 {color:#999; font-family: 'Helvetica', sans-serif; font-size: 12px; font-weight: normal !important;}
 .arc2 th {color:#999; font-family: 'Helvetica', sans-serif; font-size: 12px; font-weight: normal !important;}
+
+.post-list .index { float:left; padding-right: 10px; }
